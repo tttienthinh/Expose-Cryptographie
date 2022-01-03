@@ -8,7 +8,3 @@ https://github.com/tttienthinh/Expose-Cryptographie/raw/main/Telecharger/Telecha
 \
 \
 TRAN-THUONG Tien-Thinh MP*
-\ 
-\ 
-# Aperçu
-[embed]https://github.com/tttienthinh/Expose-Cryptographie/raw/main/Telecharger/beamer.pdf [/embed]
